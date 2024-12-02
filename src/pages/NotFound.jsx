@@ -1,7 +1,7 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom';
 
-import foto from "../assets/nf.jpeg"
+import foto from "../assets/notfound.jpg"
 
 const NotFound = () => {
     const navigate = useNavigate()
